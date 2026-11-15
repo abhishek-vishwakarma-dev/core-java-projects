@@ -107,7 +107,7 @@ B.Tech CSE '29 | LNCT&S Bhopal
 
 Learning Java, Data Structures and Algorithms, and Backend Development.
 
-- GitHub: [@vishwaabhishek2208](https://github.comabhishek-vishwakarma-dev)
+- GitHub: [@abhishek-vishwakarma-dev](https://github.com/abhishek-vishwakarma-dev)
 
 ---
 
